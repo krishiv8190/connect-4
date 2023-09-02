@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Check out the Live demo [here](https://connect-4-krishiv.netlify.app/)
+Check out the Live demo [here](https://playful-cannoli-201dc7.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
